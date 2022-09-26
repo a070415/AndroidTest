@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="날씨별 코디 추천"
+        android:layout_margin="20dp"
+        android:textSize="30dp"
+        android:fontFamily="@font/kyobo"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="오늘 서울의 날씨에요!"
+        android:fontFamily="@font/kyobo"
+        android:textSize="20sp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:id="@+id/tv_weather"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="온도"
+        android:textColor="#FF0000"
+        android:fontFamily="@font/kyobo"
+        android:textSize="20sp"
+        android:layout_marginLeft="20dp"/>
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/weather_cloth"/>
+
+</LinearLayout>

@@ -3,25 +3,40 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/drawable/edge.xml" value="0.1575" />
         <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/drawable/menu_item_color.xml" value="0.145" />
-        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/activity_color.xml" value="0.215625" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/activity_com_free.xml" value="0.215625" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/activity_com_recommend.xml" value="0.20104166666666667" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/activity_com_trade.xml" value="0.20104166666666667" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/activity_daily.xml" value="0.215625" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/activity_main.xml" value="0.16" />
         <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/activity_main2.xml" value="0.20104166666666667" />
         <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/activity_test.xml" value="0.21666666666666667" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/activity_weather.xml" value="0.215625" />
         <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/bottom_navigation_menu.xml" value="0.23125" />
         <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/fragment_main_menu_board.xml" value="0.23125" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/fragment_main_menu_favorite.xml" value="0.1" />
         <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/fragment_main_menu_home.xml" value="0.23125" />
         <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/fragment_main_menu_info.xml" value="0.23125" />
         <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/fragment_main_menu_my_cloth.xml" value="0.264" />
         <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/main_page.xml" value="0.23489583333333333" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/navi_header.xml" value="0.23125" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/recycletest.xml" value="0.1" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/row.xml" value="0.264" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/sidebar.xml" value="0.2" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/style.xml" value="0.20104166666666667" />
         <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/layout/toolbar.xml" value="0.215625" />
-        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.215625" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.264" />
         <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/menu/menu_toolbar.xml" value="0.215625" />
-        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/menu/navi_bar.xml" value="0.152" />
+        <entry key="..\:/jun/Android_study/Shopping/app/src/main/res/menu/navi_bar.xml" value="0.2" />
         <entry key="..\:/jun/Android_study/Shopping/nav/src/main/res/drawable-v24/person.xml" value="0.142" />
         <entry key="..\:/jun/Android_study/Shopping/nav/src/main/res/layout/activity_board.xml" value="0.215625" />
         <entry key="..\:/jun/Android_study/Shopping/nav/src/main/res/layout/activity_info.xml" value="0.215625" />
         <entry key="..\:/jun/Android_study/Shopping/nav/src/main/res/layout/activity_main.xml" value="0.23020833333333332" />
         <entry key="..\:/jun/Android_study/Shopping/nav/src/main/res/menu/bottom_bar_menu.xml" value="0.23125" />
+        <entry key="..\:/jun/Android_study/Shopping/nav/src/main/res/menu/navi_bar.xml" value="0.23125" />
       </map>
     </option>
   </component>

@@ -4,12 +4,16 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:layout_margin="30dp"
+    android:layout_marginTop="50dp"
+    android:layout_marginRight="30dp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginBottom="30dp"
     tools:context=".MainMenuClothFragment">
 
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:scrollbars="none"
         android:orientation="vertical">
 
         <LinearLayout
@@ -18,11 +22,26 @@
             android:orientation="vertical">
 
             <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="65dp"
+                android:rotation="@integer/material_motion_duration_long_2"
+                android:text="옷 추천 pick!"
+                android:layout_marginRight="25dp"
+                android:gravity="right"/>
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/pickpick"
+
+                android:layout_gravity="right"/>
+
+            <TextView
                 android:drawableRight="@drawable/add"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/kyobo"
-                android:layout_marginTop="65dp"
                 android:textSize="30dp"
                 android:text="상의"/>
 

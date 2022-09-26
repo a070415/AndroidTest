@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/edge"
+    android:layout_margin="10dp">
+
+    <TextView
+        android:id="@+id/dataTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:textAlignment="center"
+        android:text="Title"/>
+
+    <TextView
+        android:id="@+id/dataContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/dataTitle"
+        android:layout_marginLeft="20dp"
+        android:text="Content"/>
+
+    <TextView
+        android:id="@+id/tv_dummy_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3분전 | "
+        android:layout_below="@id/dataContent"
+        android:layout_marginLeft="20dp"
+        android:textSize="12sp"/>
+
+    <TextView
+        android:id="@+id/tv_dummy_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="익명"
+        android:layout_toRightOf="@id/tv_dummy_time"
+        android:layout_below="@id/dataContent"
+        android:textSize="12sp"/>
+
+    <TextView
+        android:id="@+id/tv_dummy_question"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/dataContent"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:drawableLeft="@drawable/question"
+        android:text=" 0 " />
+
+    <TextView
+        android:id="@+id/tv_dummy_like"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" 0 "
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_toLeftOf="@id/tv_dummy_question"
+        android:layout_below="@id/dataContent"
+        android:drawableLeft="@drawable/thumb"/>
+
+</RelativeLayout>
